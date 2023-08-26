@@ -12,7 +12,7 @@ The same theory applies to normal timeless jewels-- for example, if you want a l
 
 ## How to use
 
-1) Download the latest .jar in the releases section
+1) Download the latest .jar in the releases section (https://github.com/CharlieBaird/PoE-Legion-Optimizer/releases)
 2) Open the .jar (you will need java installed)
 3) Move the window to the desired location by left clicking and dragging
 4) Select the boss you want to target farm (E for eternal, K for karui, V for vaal, T for templar, M for maraketh)
