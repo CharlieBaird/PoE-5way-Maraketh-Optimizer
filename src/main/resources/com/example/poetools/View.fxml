@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.StackPane?>
+
+<?import javafx.scene.layout.HBox?>
+<VBox fx:id="pane" alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.example.poetools.Controller">
+
+    <StackPane>
+        <Label fx:id="counter" visible="false" text="Ready"/>
+        <HBox minWidth="125" fx:id="hBox">
+            <Button text="E" onAction="#beginE"/>
+            <Button text="K" onAction="#beginK"/>
+            <Button text="V" onAction="#beginV"/>
+            <Button text="T" onAction="#beginT"/>
+            <Button text="M" onAction="#beginM"/>
+        </HBox>
+    </StackPane>
+</VBox>
