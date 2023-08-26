@@ -21,3 +21,7 @@ The same theory applies to normal timeless jewels-- for example, if you want a l
 ## Quick note
 
 This program uses the client.txt file to monitor the deaths of the bosses. It assumes the file is located at `"/Program Files (x86)/Grinding Gear Games/Path of Exile/logs/client.txt"` - if it is not, the program will probably crash. If I have time I might fix this to be configurable, but not sure if needed.
+
+## Roadmap
+
+1) Add configurable `client.txt` path
